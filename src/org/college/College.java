@@ -8,7 +8,7 @@ public void collegeName() {
 }
      public void collegeCode() {
 		System.out.println("code 999");
-
+       System.out.println("j");
 	}
      
      public void collegeRank() {
